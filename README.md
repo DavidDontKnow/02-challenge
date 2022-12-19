@@ -20,8 +20,8 @@ THEN I find a concise, descriptive title
 
 ## Submission
 
-Deployment:
-Repo:
+Deployment: https://daviddontknow.github.io/horiseon-refactor-challenge/
+Repo: https://github.com/DavidDontKnow/horiseon-refactor-challenge
 
 ## Mock-Up
 
